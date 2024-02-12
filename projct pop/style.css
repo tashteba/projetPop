@@ -1,0 +1,10 @@
+.container {
+    padding: 4rem 2rem 2rem;
+    font-size: 1.2rem;  
+}
+.backNav {
+    background-color: rgb(133, 205, 181);
+}
+.close {
+    padding-left: 3rem;
+}
